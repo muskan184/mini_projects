@@ -37,6 +37,13 @@ A functional currency converter built using HTML, CSS, and JavaScript. It allows
 - Fetches real-time exchange rates using an API
 - User-friendly interface
 
+### 5. Weather app
+A Functional Real Time Weather App built using HTML, CSS, and JavaScript. It allows users to See Weather of different City using real-time Weather Api.
+
+**Features:**
+- Responsive design
+- Fetches real-time Weather.
+  
 ## Getting Started
 
 To view any of these projects locally, follow these steps:
