@@ -43,6 +43,21 @@ A Functional Real Time Weather App built using HTML, CSS, and JavaScript. It all
 **Features:**
 - Responsive design
 - Fetches real-time Weather.
+
+### 6. Tic Tac Toe
+This Tic Tac Toe game is a simple implementation using JavaScript, HTML, and CSS. Players can take turns marking the board with "X" or "O" symbols, aiming to get three in a row horizontally, vertically, or diagonally.
+
+**Features:**
+- Responsive design
+- Two Player Mode.
+- Win Detection.
+
+### 7. To Do List
+This To-Do List application is built using JavaScript, HTML, and CSS. Users can add and delete tasks. The list is persisted using local storage, so tasks will be retained even after refreshing or closing the tab.
+
+**Featuers:**
+- Persist task using local storage.
+- simple and user friendly interface.
   
 ## Getting Started
 
