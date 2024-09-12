@@ -1,6 +1,6 @@
 # My Projects
 
-Welcome to my `my_projects` repository! This repository contains a collection of web development projects that I have created to enhance my skills in HTML, CSS, and JavaScript. Each project showcases different functionalities and design elements. Below is a brief description of each project, with a special emphasis on my Spotify clone.
+Welcome to my `mini_projects` repository! This repository contains a collection of web development projects that I have created to enhance my skills in HTML, CSS, and JavaScript. Each project showcases different functionalities and design elements. Below is a brief description of each project, with a special emphasis on my Spotify clone.
 
 ## Projects
 
