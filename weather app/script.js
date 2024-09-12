@@ -1,4 +1,4 @@
-let apiKey = "6fc4a4cb708c88e8a68654218cf5917a"
+let apiKey = "your Api key here"
 let apiUrl = `https://api.openweathermap.org/data/2.5/weather?`
 let weatherIcon = document.querySelector('.weather-icon') 
 
