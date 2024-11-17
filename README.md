@@ -4,7 +4,7 @@ Welcome to my `mini_projects` repository! This repository contains a collection 
 
 ## Projects
 
-### 1. Calculator
+### 1. Calculator 🧮
 A simple, responsive calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 **Features:**
@@ -28,7 +28,7 @@ A functional currency converter built using HTML, CSS, and JavaScript. It allows
 - Fetches real-time exchange rates using an API
 - User-friendly interface
 
-### 4. Weather app
+### 4. Weather app ☁️
 A Functional Real Time Weather App built using HTML, CSS, and JavaScript. It allows users to See Weather of different City using real-time Weather Api.
 
 **Features:**
